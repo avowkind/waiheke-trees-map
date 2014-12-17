@@ -55,6 +55,31 @@ gulp.task('fonts', function () {
     .pipe(gulp.dest('dist/fonts'));
 });
 
+
+function gpsDecimal(direction, degrees, minutes, seconds) {
+  var d = degrees + minutes / 60 + seconds / (60 * 60);
+  return (direction === 'S' || direction === 'W') ? d *= -1 : d;
+}
+
+gulp.task('exif', function () {
+  return gulp.src('app/Blackpool trees/**/*.jpg')
+  .pipe($.exif())
+  .pipe($.data(function (file) {
+    var filename = file.path.substring(file.path.lastIndexOf('/') + 1),
+    exif = file.exif.gps,
+    calcLat = gpsDecimal.bind(null, exif.GPSLatitudeRef),
+    calcLng = gpsDecimal.bind(null, exif.GPSLongitudeRef),
+    data = {};
+    data[filename] = {
+      lat: calcLat.apply(null, exif.GPSLatitude),
+      lng: calcLng.apply(null, exif.GPSLongitude)
+    };
+    file.contents = new Buffer(JSON.stringify(data));
+  }))
+  .pipe($.extend('gps.json', true, '    '))
+  .pipe(gulp.dest('app'));
+});
+
 gulp.task('extras', function () {
   return gulp.src([
     'app/*.*',
@@ -118,7 +143,7 @@ gulp.task('watch', ['connect'], function () {
   gulp.watch('bower.json', ['wiredep']);
 });
 
-gulp.task('build', ['jshint', 'html', 'images', 'fonts', 'extras'], function () {
+gulp.task('build', ['jshint', 'html', 'images', 'fonts', 'extras', 'exif'], function () {
   return gulp.src('dist/**/*').pipe($.size({title: 'build', gzip: true}));
 });
 
