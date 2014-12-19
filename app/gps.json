@@ -1,349 +1,351 @@
 {
-    "Mako 11 Citrus.jpg": {
+    "Mako 11 Citrus": {
+        "path": "images/Mako St/Mako 11 Citrus.jpg",
         "lat": -36.78472222222222,
         "lng": 175.00833333333333
     },
-    "Mako 11 Plum1.jpg": {
+    "Mako 11 Plum1": {
+        "path": "images/Mako St/Mako 11 Plum1.jpg",
         "lat": -36.78472222222222,
         "lng": 175.00833333333333
     },
-    "Mako 11 Plum2.jpg": {
+    "Mako 11 Plum2": {
+        "path": "images/Mako St/Mako 11 Plum2.jpg",
         "lat": -36.78472222222222,
         "lng": 175.00833333333333
     },
-    "Mako 40 Citrus.jpg": {
+    "Mako 40 Citrus": {
+        "path": "images/Mako St/Mako 40 Citrus.jpg",
         "lat": -36.784166666666664,
         "lng": 175.00694444444446
     },
-    "Mako 40 Tamarillo.jpg": {
+    "Mako 40 Tamarillo": {
+        "path": "images/Mako St/Mako 40 Tamarillo.jpg",
         "lat": -36.784166666666664,
         "lng": 175.00694444444446
     },
-    "Mako 42 Guava.jpg": {
+    "Mako 42 Guava": {
+        "path": "images/Mako St/Mako 42 Guava.jpg",
         "lat": -36.78444444444444,
         "lng": 175.00722222222223
     },
-    "Mako 42 Passionfruit.jpg": {
+    "Mako 42 Passionfruit": {
+        "path": "images/Mako St/Mako 42 Passionfruit.jpg",
         "lat": -36.78444444444444,
         "lng": 175.00722222222223
     },
-    "Mako 52 Apricot.jpg": {
+    "Mako 52 Apricot": {
+        "path": "images/Mako St/Mako 52 Apricot.jpg",
         "lat": -36.78472222222222,
         "lng": 175.00833333333333
     },
-    "Mako 52 Macadamia1.jpg": {
+    "Mako 52 Macadamia1": {
+        "path": "images/Mako St/Mako 52 Macadamia1.jpg",
         "lat": -36.78472222222222,
         "lng": 175.00833333333333
     },
-    "Mako 52 Macadamia2.jpg": {
+    "Mako 52 Macadamia2": {
+        "path": "images/Mako St/Mako 52 Macadamia2.jpg",
         "lat": -36.78472222222222,
         "lng": 175.00833333333333
     },
-    "Mako 54 Citrus.jpg": {
+    "Mako 54 Citrus": {
+        "path": "images/Mako St/Mako 54 Citrus.jpg",
         "lat": -36.785,
         "lng": 175.00861111111112
     },
-    "Mako 54 Feijoa1.jpg": {
+    "Mako 54 Feijoa1": {
+        "path": "images/Mako St/Mako 54 Feijoa1.jpg",
         "lat": -36.785,
         "lng": 175.00861111111112
     },
-    "Mako 54 Feijoa2.jpg": {
+    "Mako 54 Feijoa2": {
+        "path": "images/Mako St/Mako 54 Feijoa2.jpg",
         "lat": -36.785,
         "lng": 175.00861111111112
     },
-    "Mako 54 Macadamia.jpg": {
+    "Mako 54 Macadamia": {
+        "path": "images/Mako St/Mako 54 Macadamia.jpg",
         "lat": -36.785,
         "lng": 175.00861111111112
     },
-    "Ridge 10 Citrus.jpg": {
-        "lat": -36.78527777777778,
-        "lng": 175.0063888888889
-    },
-    "Ridge 10 Plum.jpg": {
-        "lat": -36.78527777777778,
-        "lng": 175.0063888888889
-    },
-    "Ridge 37 Passionfruit1.jpg": {
-        "lat": -36.78611111111111,
-        "lng": 175.00833333333333
-    },
-    "Ridge 37 Passionfruit2.jpg": {
-        "lat": -36.78611111111111,
-        "lng": 175.00833333333333
-    },
-    "Ridge 37 Tamarillo1.jpg": {
-        "lat": -36.78611111111111,
-        "lng": 175.00833333333333
-    },
-    "Ridge 37 Tamarillo2.jpg": {
-        "lat": -36.78611111111111,
-        "lng": 175.00833333333333
-    },
-    "Ridge 45 Feijoa1.jpg": {
-        "lat": -36.78666666666666,
-        "lng": 175.00861111111112
-    },
-    "Ridge 45 Feijoa2.jpg": {
-        "lat": -36.786944444444444,
-        "lng": 175.0088888888889
-    },
-    "Ridge 45 Pawpaw1.jpg": {
-        "lat": -36.78666666666666,
-        "lng": 175.00861111111112
-    },
-    "Ridge 45 Pawpaw2.jpg": {
-        "lat": -36.786944444444444,
-        "lng": 175.0088888888889
-    },
-    "Ridge 46 Chestnut.jpg": {
-        "lat": -36.786944444444444,
-        "lng": 175.0088888888889
-    },
-    "Ridge 46 Guava.jpg": {
-        "lat": -36.786944444444444,
-        "lng": 175.0088888888889
-    },
-    "Ridge 47 Chestnut.jpg": {
-        "lat": -36.7875,
-        "lng": 175.00916666666666
-    },
-    "Ridge 47 Walnut1.jpg": {
-        "lat": -36.78722222222222,
-        "lng": 175.0088888888889
-    },
-    "Ridge 47 Walnut2.jpg": {
-        "lat": -36.78722222222222,
-        "lng": 175.0088888888889
-    },
-    "Ridge 47 Walnut3.jpg": {
-        "lat": -36.78722222222222,
-        "lng": 175.00916666666666
-    },
-    "Ridge opp 10 Plum.jpg": {
-        "lat": -36.78527777777778,
-        "lng": 175.0063888888889
-    },
-    "NIkau 32 Citrus2.jpg": {
+    "NIkau 32 Citrus2": {
+        "path": "images/Nikau St/NIkau 32 Citrus2.jpg",
         "lat": -36.7875,
         "lng": 175.01305555555555
     },
-    "Nikau 16 Apple.jpg": {
+    "Nikau 16 Apple": {
+        "path": "images/Nikau St/Nikau 16 Apple.jpg",
         "lat": -36.78722222222222,
         "lng": 175.01111111111112
     },
-    "Nikau 16 unidentified.jpg": {
+    "Nikau 16 unidentified": {
+        "path": "images/Nikau St/Nikau 16 unidentified.jpg",
         "lat": -36.78722222222222,
         "lng": 175.01083333333332
     },
-    "Nikau 22 Citrus.jpg": {
+    "Nikau 22 Citrus": {
+        "path": "images/Nikau St/Nikau 22 Citrus.jpg",
         "lat": -36.78722222222222,
         "lng": 175.01194444444445
     },
-    "Nikau 22 Nashi.jpg": {
+    "Nikau 22 Nashi": {
+        "path": "images/Nikau St/Nikau 22 Nashi.jpg",
         "lat": -36.78722222222222,
         "lng": 175.01194444444445
     },
-    "Nikau 22 Plum.jpg": {
+    "Nikau 22 Plum": {
+        "path": "images/Nikau St/Nikau 22 Plum.jpg",
         "lat": -36.78722222222222,
         "lng": 175.01194444444445
     },
-    "Nikau 28 Apple.jpg": {
+    "Nikau 28 Apple": {
+        "path": "images/Nikau St/Nikau 28 Apple.jpg",
         "lat": -36.7875,
         "lng": 175.0125
     },
-    "Nikau 28 Plum.jpg": {
+    "Nikau 28 Plum": {
+        "path": "images/Nikau St/Nikau 28 Plum.jpg",
         "lat": -36.7875,
         "lng": 175.0125
     },
-    "Nikau 30 Pear1.jpg": {
+    "Nikau 30 Pear1": {
+        "path": "images/Nikau St/Nikau 30 Pear1.jpg",
         "lat": -36.7875,
         "lng": 175.0125
     },
-    "Nikau 30 Pear2.jpg": {
+    "Nikau 30 Pear2": {
+        "path": "images/Nikau St/Nikau 30 Pear2.jpg",
         "lat": -36.7875,
         "lng": 175.0125
     },
-    "Nikau 32 Citrus1.jpg": {
+    "Nikau 32 Citrus1": {
+        "path": "images/Nikau St/Nikau 32 Citrus1.jpg",
         "lat": -36.7875,
         "lng": 175.01305555555555
     },
-    "Nikau 32 Citrus3.jpg": {
+    "Nikau 32 Citrus3": {
+        "path": "images/Nikau St/Nikau 32 Citrus3.jpg",
         "lat": -36.7875,
         "lng": 175.01305555555555
     },
-    "Nikau 36 Almond.jpg": {
+    "Nikau 36 Almond": {
+        "path": "images/Nikau St/Nikau 36 Almond.jpg",
         "lat": -36.78777777777778,
         "lng": 175.01333333333332
     },
-    "Nikau 36 Apricot.jpg": {
+    "Nikau 36 Apricot": {
+        "path": "images/Nikau St/Nikau 36 Apricot.jpg",
         "lat": -36.7875,
         "lng": 175.01333333333332
     },
-    "Nikau 38 Nashi.jpg": {
+    "Nikau 38 Nashi": {
+        "path": "images/Nikau St/Nikau 38 Nashi.jpg",
         "lat": -36.78777777777778,
         "lng": 175.01361111111112
     },
-    "Nikau 5 Hazelnut1.jpg": {
+    "Nikau 5 Hazelnut1": {
+        "path": "images/Nikau St/Nikau 5 Hazelnut1.jpg",
         "lat": -36.7875,
         "lng": 175.00972222222222
     },
-    "Nikau 5 Hazelnut2.jpg": {
+    "Nikau 5 Hazelnut2": {
+        "path": "images/Nikau St/Nikau 5 Hazelnut2.jpg",
         "lat": -36.7875,
         "lng": 175.00944444444445
     },
-    "Nikau 5 Hazelnut3.jpg": {
+    "Nikau 5 Hazelnut3": {
+        "path": "images/Nikau St/Nikau 5 Hazelnut3.jpg",
         "lat": -36.7875,
         "lng": 175.00944444444445
     },
-    "Nikau 5 Hazelnut4.jpg": {
+    "Nikau 5 Hazelnut4": {
+        "path": "images/Nikau St/Nikau 5 Hazelnut4.jpg",
         "lat": -36.7875,
         "lng": 175.00944444444445
     },
-    "Nikau 5 Macadamia.jpg": {
+    "Nikau 5 Macadamia": {
+        "path": "images/Nikau St/Nikau 5 Macadamia.jpg",
         "lat": -36.7875,
         "lng": 175.00944444444445
     },
-    "Nikau 9 Citrus1.jpg": {
+    "Nikau 9 Citrus1": {
+        "path": "images/Nikau St/Nikau 9 Citrus1.jpg",
         "lat": -36.7875,
         "lng": 175.00972222222222
     },
-    "Nikau 9 Citrus2.jpg": {
+    "Nikau 9 Citrus2": {
+        "path": "images/Nikau St/Nikau 9 Citrus2.jpg",
         "lat": -36.7875,
         "lng": 175.01
     },
-    "Nikau 9 Citrus3.jpg": {
+    "Nikau 9 Citrus3": {
+        "path": "images/Nikau St/Nikau 9 Citrus3.jpg",
         "lat": -36.7875,
         "lng": 175.01
     },
-    "Nikau 9 Citrus4.jpg": {
+    "Nikau 9 Citrus4": {
+        "path": "images/Nikau St/Nikau 9 Citrus4.jpg",
         "lat": -36.7875,
         "lng": 175.01
     },
-    "Nikau 9 Guava.jpg": {
+    "Nikau 9 Guava": {
+        "path": "images/Nikau St/Nikau 9 Guava.jpg",
         "lat": -36.7875,
         "lng": 175.01
     },
-    "Chestnut RidgeRd 47.jpg": {
-        "lat": -36.78722222222222,
-        "lng": 175.0088888888889
-    },
-    "Chestnut RidgeZRd 46-1.jpg": {
-        "lat": -36.83583333333333,
-        "lng": 175.00444444444443
-    },
-    "Feijoa RidgeRd 45-1.jpg": {
-        "lat": -36.786944444444444,
-        "lng": 175.00861111111112
-    },
-    "Feijoa RidgeRd 45-2.jpg": {
-        "lat": -36.786944444444444,
-        "lng": 175.0088888888889
-    },
-    "Guava RidgeRd 46-1.jpg": {
-        "lat": -36.78666666666666,
-        "lng": 175.00861111111112
-    },
-    "Mandarin RidgeRd 13.jpg": {
+    "Ridge 10 Citrus": {
+        "path": "images/Ridge Rd/Ridge 10 Citrus.jpg",
         "lat": -36.78527777777778,
         "lng": 175.0063888888889
     },
-    "Passion Fruit RidgeRd 37-1.jpg": {
-        "lat": -36.78583333333333,
-        "lng": 175.00861111111112
-    },
-    "Passionfruit RidgeRd 37-2.jpg": {
-        "lat": -36.78611111111111,
-        "lng": 175.00833333333333
-    },
-    "Pawpaw RidgeRd 45-1.jpg": {
-        "lat": -36.78666666666666,
-        "lng": 175.00861111111112
-    },
-    "Pawpaw RidgeRd 45-2.jpg": {
-        "lat": -36.786944444444444,
-        "lng": 175.0088888888889
-    },
-    "Plum RidgeRd 13-1.jpg": {
-        "lat": -36.78527777777778,
-        "lng": 175.00611111111112
-    },
-    "Plum RidgeRd 13-2.jpg": {
+    "Ridge 10 Plum": {
+        "path": "images/Ridge Rd/Ridge 10 Plum.jpg",
         "lat": -36.78527777777778,
         "lng": 175.0063888888889
     },
-    "Tamarillo RidgeRd 37-1.jpg": {
+    "Ridge 37 Passionfruit1": {
+        "path": "images/Ridge Rd/Ridge 37 Passionfruit1.jpg",
         "lat": -36.78611111111111,
         "lng": 175.00833333333333
     },
-    "Tamrillo RidgeRd 37-2.jpg": {
+    "Ridge 37 Passionfruit2": {
+        "path": "images/Ridge Rd/Ridge 37 Passionfruit2.jpg",
         "lat": -36.78611111111111,
         "lng": 175.00833333333333
     },
-    "Walnut RidgeRd 47-1.jpg": {
-        "lat": -36.785555555555554,
-        "lng": 175.01333333333332
+    "Ridge 37 Tamarillo1": {
+        "path": "images/Ridge Rd/Ridge 37 Tamarillo1.jpg",
+        "lat": -36.78611111111111,
+        "lng": 175.00833333333333
     },
-    "Walnut RidgeRd 47-2.jpg": {
+    "Ridge 37 Tamarillo2": {
+        "path": "images/Ridge Rd/Ridge 37 Tamarillo2.jpg",
+        "lat": -36.78611111111111,
+        "lng": 175.00833333333333
+    },
+    "Ridge 45 Feijoa1": {
+        "path": "images/Ridge Rd/Ridge 45 Feijoa1.jpg",
+        "lat": -36.78666666666666,
+        "lng": 175.00861111111112
+    },
+    "Ridge 45 Feijoa2": {
+        "path": "images/Ridge Rd/Ridge 45 Feijoa2.jpg",
+        "lat": -36.786944444444444,
+        "lng": 175.0088888888889
+    },
+    "Ridge 45 Pawpaw1": {
+        "path": "images/Ridge Rd/Ridge 45 Pawpaw1.jpg",
+        "lat": -36.78666666666666,
+        "lng": 175.00861111111112
+    },
+    "Ridge 45 Pawpaw2": {
+        "path": "images/Ridge Rd/Ridge 45 Pawpaw2.jpg",
+        "lat": -36.786944444444444,
+        "lng": 175.0088888888889
+    },
+    "Ridge 46 Chestnut": {
+        "path": "images/Ridge Rd/Ridge 46 Chestnut.jpg",
+        "lat": -36.786944444444444,
+        "lng": 175.0088888888889
+    },
+    "Ridge 46 Guava": {
+        "path": "images/Ridge Rd/Ridge 46 Guava.jpg",
+        "lat": -36.786944444444444,
+        "lng": 175.0088888888889
+    },
+    "Ridge 47 Chestnut": {
+        "path": "images/Ridge Rd/Ridge 47 Chestnut.jpg",
+        "lat": -36.7875,
+        "lng": 175.00916666666666
+    },
+    "Ridge 47 Walnut1": {
+        "path": "images/Ridge Rd/Ridge 47 Walnut1.jpg",
         "lat": -36.78722222222222,
         "lng": 175.0088888888889
     },
-    "Walnut RidgeRd 47-3.jpg": {
+    "Ridge 47 Walnut2": {
+        "path": "images/Ridge Rd/Ridge 47 Walnut2.jpg",
         "lat": -36.78722222222222,
         "lng": 175.0088888888889
     },
-    "Tahatai 10 Peach.jpg": {
+    "Ridge 47 Walnut3": {
+        "path": "images/Ridge Rd/Ridge 47 Walnut3.jpg",
+        "lat": -36.78722222222222,
+        "lng": 175.00916666666666
+    },
+    "Ridge opp 10 Plum": {
+        "path": "images/Ridge Rd/Ridge opp 10 Plum.jpg",
+        "lat": -36.78527777777778,
+        "lng": 175.0063888888889
+    },
+    "Tahatai 10 Peach": {
+        "path": "images/Tahatai Rd/Tahatai 10 Peach.jpg",
         "lat": -36.78611111111111,
         "lng": 175.00583333333333
     },
-    "Tahatai 13 Citrus1.jpg": {
+    "Tahatai 13 Citrus1": {
+        "path": "images/Tahatai Rd/Tahatai 13 Citrus1.jpg",
         "lat": -36.78583333333333,
         "lng": 175.005
     },
-    "Tahatai 13 Citrus2.jpg": {
+    "Tahatai 13 Citrus2": {
+        "path": "images/Tahatai Rd/Tahatai 13 Citrus2.jpg",
         "lat": -36.78583333333333,
         "lng": 175.005
     },
-    "Tahatai 13 Hazelnut.jpg": {
+    "Tahatai 13 Hazelnut": {
+        "path": "images/Tahatai Rd/Tahatai 13 Hazelnut.jpg",
         "lat": -36.78583333333333,
         "lng": 175.005
     },
-    "Tahatai 16 Banana.jpg": {
+    "Tahatai 16 Banana": {
+        "path": "images/Tahatai Rd/Tahatai 16 Banana.jpg",
         "lat": -36.78638888888889,
         "lng": 175.00611111111112
     },
-    "Tahatai 16 Citrus.jpg": {
+    "Tahatai 16 Citrus": {
+        "path": "images/Tahatai Rd/Tahatai 16 Citrus.jpg",
         "lat": -36.78638888888889,
         "lng": 175.00583333333333
     },
-    "Tahatai 26 Citrus2.jpg": {
+    "Tahatai 26 Citrus2": {
+        "path": "images/Tahatai Rd/Tahatai 26 Citrus2.jpg",
         "lat": -36.786944444444444,
         "lng": 175.00694444444446
     },
-    "Tahatai 27 Apple1.jpg": {
+    "Tahatai 27 Apple1": {
+        "path": "images/Tahatai Rd/Tahatai 27 Apple1.jpg",
         "lat": -36.786944444444444,
         "lng": 175.0063888888889
     },
-    "Tahatai 27 Apple2.jpg": {
+    "Tahatai 27 Apple2": {
+        "path": "images/Tahatai Rd/Tahatai 27 Apple2.jpg",
         "lat": -36.786944444444444,
         "lng": 175.0063888888889
     },
-    "Tahatai 27 Pear1.jpg": {
+    "Tahatai 27 Pear1": {
+        "path": "images/Tahatai Rd/Tahatai 27 Pear1.jpg",
         "lat": -36.786944444444444,
         "lng": 175.0063888888889
     },
-    "Tahatai 27 Pear2.jpg": {
+    "Tahatai 27 Pear2": {
+        "path": "images/Tahatai Rd/Tahatai 27 Pear2.jpg",
         "lat": -36.786944444444444,
         "lng": 175.0063888888889
     },
-    "Tahatai 42 Apricot.jpg": {
+    "Tahatai 42 Apricot": {
+        "path": "images/Tahatai Rd/Tahatai 42 Apricot.jpg",
         "lat": -36.78805555555555,
         "lng": 175.00861111111112
     },
-    "Tahatai 42 Peach.jpg": {
+    "Tahatai 42 Peach": {
+        "path": "images/Tahatai Rd/Tahatai 42 Peach.jpg",
         "lat": -36.78805555555555,
         "lng": 175.00861111111112
     },
-    "Tahtai 26 Citrus1.jpg": {
+    "Tahtai 26 Citrus1": {
+        "path": "images/Tahatai Rd/Tahtai 26 Citrus1.jpg",
         "lat": -36.786944444444444,
         "lng": 175.00694444444446
     }

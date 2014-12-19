@@ -39,6 +39,13 @@ gulp.task('html', ['styles'], function () {
     .pipe(gulp.dest('dist'));
 });
 
+
+gulp.task('cache-clear', function (done) {
+  return $.cache.clearAll(done);
+});
+
+// var debug = require('gulp-debug');
+
 gulp.task('images', function () {
   return gulp.src('app/images/**/*')
     .pipe($.cache($.imagemin({
@@ -62,15 +69,17 @@ function gpsDecimal(direction, degrees, minutes, seconds) {
 }
 
 gulp.task('exif', function () {
-  return gulp.src('app/Blackpool trees/**/*.jpg')
+  return gulp.src('app/images/**/*.jpg')
   .pipe($.exif())
   .pipe($.data(function (file) {
-    var filename = file.path.substring(file.path.lastIndexOf('/') + 1),
+    var filename = file.path.substring(file.path.lastIndexOf('/') + 1).slice(0, -4),
+    path = file.path.substring(file.path.lastIndexOf('images/') ),
     exif = file.exif.gps,
     calcLat = gpsDecimal.bind(null, exif.GPSLatitudeRef),
     calcLng = gpsDecimal.bind(null, exif.GPSLongitudeRef),
     data = {};
     data[filename] = {
+      path: path,
       lat: calcLat.apply(null, exif.GPSLatitude),
       lng: calcLng.apply(null, exif.GPSLongitude)
     };
@@ -150,3 +159,33 @@ gulp.task('build', ['jshint', 'html', 'images', 'fonts', 'extras', 'exif'], func
 gulp.task('default', ['clean'], function () {
   gulp.start('build');
 });
+
+/**
+* Start rsync task
+*/
+var rsync = require('gulp-rsync');
+//var config = require('./gulpconfig').rsync;
+
+/**
+* Copy files and folder to server
+* via rsync
+*/
+gulp.task('rsync', function() {
+  return gulp.src('dist/**')
+  .pipe(rsync({
+    destination: '~/public_html/trees',
+    root: 'dist',
+    hostname: 'avowkind.net',
+    username: 'avowkind',
+    incremental: true,
+    progress: true,
+    relative: true,
+    emptyDirectories: true,
+    recursive: true,
+    clean: true,
+    exclude: ['.DS_Store'],
+    include: []
+  }));
+});
+
+gulp.task('deploy', ['rsync']);
